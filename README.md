@@ -9,10 +9,10 @@ Add 2 zip  library to your Arduino IDE :
   <br />
   NodeMCU ESP8266 kFirebaseFingerprint Error (Error Compiling For Board NodeMCU 1.0)
   <br />
-  <br />
   Make sure change 
   <br />
-  * board managers : ESP8266 Board version is 2.7.4
-  * Include library : Arduino Json Library Version is 5.x
-  
+  <ol>
+  <li>board managers : ESP8266 Board version is 2.7.4 </li>
+  <li>Include library : Arduino Json Library Version is 5.x </li>
+  </ol>
 2. An Arduino library for the [Adafruit TCS34725](https://www.arduino.cc/reference/en/libraries/adafruit-tcs34725/)
