@@ -9,7 +9,7 @@ Add 2 zip  library to your Arduino IDE :
  If having an error :
   <br />
   NodeMCU ESP8266 kFirebaseFingerprint Error (Error Compiling For Board NodeMCU 1.0)
-  <br />
+  <br /><br/>
   Make sure change 
   <br />
   <ol>
