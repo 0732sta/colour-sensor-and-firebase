@@ -9,11 +9,12 @@ Add 2 zip  library to your Arduino IDE :
  If having an error :
   <br />
    1.NodeMCU ESP8266 kFirebaseFingerprint Error (Error Compiling For Board NodeMCU 1.0)
-  <br /><br/>
+  <br />
   Make sure change 
   <br />
   <ol>
-  <li>board managers : ESP8266 Board version is 2.7.4 </li>
-  <li>Include library : Arduino Json Library Version is 5.x </li>
+  <ul>board managers : ESP8266 Board version is 2.7.4 </li>
+  <ul>Include library : Arduino Json Library Version is 5.x </li>
   </ol>
+  <br/>
 2. Fairebase.failed() is always true with empty Firebase.error -> https://github.com/FirebaseExtended/firebase-arduino/issues/474
