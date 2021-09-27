@@ -17,4 +17,4 @@ Add 2 zip  library to your Arduino IDE :
   <li>board managers : ESP8266 Board version is 2.7.4 </li>
   <li>Include library : Arduino Json Library Version is 5.x </li>
   </ol>
-2. Fairebase.failed() is always true with empty [Firebase.error](https://github.com/FirebaseExtended/firebase-arduino/issues/474)
+2. Fairebase.failed() is always true with empty Firebase.error -> https://github.com/FirebaseExtended/firebase-arduino/issues/474
