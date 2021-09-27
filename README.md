@@ -7,6 +7,7 @@ Add 2 zip  library to your Arduino IDE :
 2. An Arduino library for the [Adafruit TCS34725](https://www.arduino.cc/reference/en/libraries/adafruit-tcs34725/)
 </br>
  If having an error :
+ 1.
   <br />
   NodeMCU ESP8266 kFirebaseFingerprint Error (Error Compiling For Board NodeMCU 1.0)
   <br /><br/>
@@ -16,3 +17,4 @@ Add 2 zip  library to your Arduino IDE :
   <li>board managers : ESP8266 Board version is 2.7.4 </li>
   <li>Include library : Arduino Json Library Version is 5.x </li>
   </ol>
+2. [Fairebase.failed() is always true with empty Firebase.error](https://github.com/FirebaseExtended/firebase-arduino/issues/474)
