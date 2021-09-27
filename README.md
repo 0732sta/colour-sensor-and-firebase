@@ -7,9 +7,8 @@ Add 2 zip  library to your Arduino IDE :
 2. An Arduino library for the [Adafruit TCS34725](https://www.arduino.cc/reference/en/libraries/adafruit-tcs34725/)
 </br>
  If having an error :
- 1.
   <br />
-  NodeMCU ESP8266 kFirebaseFingerprint Error (Error Compiling For Board NodeMCU 1.0)
+   1.NodeMCU ESP8266 kFirebaseFingerprint Error (Error Compiling For Board NodeMCU 1.0)
   <br /><br/>
   Make sure change 
   <br />
