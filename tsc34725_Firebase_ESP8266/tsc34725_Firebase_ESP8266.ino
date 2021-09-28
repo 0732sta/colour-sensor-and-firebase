@@ -5,10 +5,10 @@
 #include <Adafruit_TCS34725.h>  
 #include <Wire.h>
 
-#define FIREBASE_HOST "colour-sensor-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "uIvCWUCNZ8pcEl2EDRYVlyMZjpcbHzkIjEtXHFa3"
-#define WIFI_SSID "anuarazimah"
-#define WIFI_PASSWORD "amnazi@1406063"
+#define FIREBASE_HOST "yourfirebasenameorhost.firebaseio.com"
+#define FIREBASE_AUTH "yourfirebaseauth"
+#define WIFI_SSID "yourwifiname"
+#define WIFI_PASSWORD "yourwifipassword"
 
 /* Connect SCL    to analog 5
    Connect SDA    to analog 4
