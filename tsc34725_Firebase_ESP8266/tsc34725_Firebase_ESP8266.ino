@@ -66,8 +66,11 @@ void loop(void) {
 
   delay(4000);
 
+  Firebase.set("Color Temp: ",colorTemp);
+  Firebase.set("Lux: ",lux);
   Firebase.set("R: ",r);
   Firebase.set("G: ",g);
   Firebase.set("B: ",b);
+  Firebase.set("C: ",c);
 
 }
